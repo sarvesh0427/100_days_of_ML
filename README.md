@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning 🚀  
 
-Welcome to my **AI & Data Science Journey** repository!  
+Welcome to my **AI & Data Science Learning Journey** repository!  
 This repo documents my practice and learning progress through the **100 Days of Machine Learning** series by [CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH).  
 
 I’ll be following along with the videos, practicing concepts daily, and uploading code, notes, and exercises here.  
