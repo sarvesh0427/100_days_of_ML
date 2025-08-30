@@ -1,0 +1,15 @@
+Inroduction 
+Day1 - Introduction to Machine Learning
+Day2 - AI vs ML vs DL
+Day3 - Types of ML
+Day4 - Batch ML
+Day5 - Online ML
+Day6 - Instance-Based Vs Model Based Learning
+Day7 - Challenges in ML
+Day8 - Application in ML
+Day9 - Machine Learning Development Life Cycle
+Day10 - Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer 
+Day11 - What are Tensors? 
+Day12 - Installing Anaconda For Data Science
+Day13 - End to End Toy Project
+Day14 - How to Frame a Machine Learning Problem
